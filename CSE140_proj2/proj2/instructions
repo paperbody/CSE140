@@ -1,0 +1,4 @@
+./tips
+load mips.dump
+step through the program
+
